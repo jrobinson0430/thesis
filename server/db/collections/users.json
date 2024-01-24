@@ -1,0 +1,4 @@
+[
+  { "_id" : "ObjectId('641b5c4f4f9ddb7cf9afb2b4')", "firstName" : "Jacob", "lastName" : "Robinson", "email" : "jrobinson61810@gmail.com", "password" : "$2b$10$Ej2.To4pIEPVsThrK4De2.j7KaJwppAtx9xt8LjGw6M2cQ9FA3wma", "location" : { "address" : "123 Main Street", "city" : "Lafayette", "state" : "IN", "zip" : "47905", "address2" : "" }, "roles" : [ "ObjectId('6418575fad0d66e9eea92fee')" ], "__v" : 0 },
+  { "_id" : "ObjectId('641de8eb97f6799d4025527f')", "firstName" : "ADMIN", "lastName" : "ACCOUNT", "email" : "admin@gmail.com", "password" : "$2b$10$u..HDy6RsgeNlhMW2eVGY.Ie3/k9.aENmYhJz0HgHSkXNk2VBokY6", "location" : { "address" : "1000 HeadQuarters Dr", "city" : "Millionaires", "state" : "Colorado", "zip" : "87654" }, "roles" : [ "ObjectId('6418575fad0d66e9eea92fee')", "ObjectId('6418575fad0d66e9eea92ff0')", "ObjectId('6418575fad0d66e9eea92ff1')" ], "__v" : 0 }
+]

@@ -1,0 +1,65 @@
+*, *::after, *::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-weight: 500;
+  font-family: chalkboard, 'Times New Roman', Times, serif;
+}
+
+body {
+  background-image: url('../public/images/textures/blueTexture.png');
+}
+
+/*  =============================================
+  ================= Forms
+============================================== */
+.formStyle {
+  background-image: url('../public/images/textures/corkTexture.png');
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.actionBtn {
+  background-color: #a3c7af;
+
+  border: 3px double rgb(70, 54, 12);
+  border-radius: .2rem;
+  padding: 0.4rem 1rem;
+  color: black;
+  font-weight: 700;
+}
+
+/*  =============================================
+  ================= Utility
+============================================== */
+
+.tanTexture {
+  background-image: url('../public/images/textures/corkTexture.png');
+}
+
+.border1 {
+  border: 5px double rgb(70, 54, 12);
+}
+
+.shadow1 {
+  box-shadow: 0rem 0.05rem .3rem
+}
+
+
+.headSz1 {
+  margin-top: 1rem;
+  padding: .5rem;
+  font-size: 4rem;
+  text-shadow: 0px 2px 3px lightgray;
+}
+.blur {
+  filter: blur(.1rem) sepia(50%);
+}
+
+    
+    @media screen and (max-width: 501px) {
+      .headSz1 {
+        margin-top: 1rem;
+        font-size: 2.5rem;
+      }
+    }

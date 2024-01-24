@@ -1,0 +1,8 @@
+.confirmDelBox {
+  position: absolute;
+  left: 50%;
+  margin-top: -.45rem;
+  padding: .4rem 1rem;
+  transform: translateX(-50%);
+  z-index: 1000;
+}

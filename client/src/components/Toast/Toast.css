@@ -1,0 +1,7 @@
+#toastStyles {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 40%;
+  z-index: 500;
+}

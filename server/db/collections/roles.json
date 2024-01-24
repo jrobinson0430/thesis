@@ -1,0 +1,5 @@
+[
+  { "_id" : "ObjectId('6418575fad0d66e9eea92fee')", "name" : "user" },
+  { "_id" : "ObjectId('6418575fad0d66e9eea92ff0')", "name" : "store_manager" },
+  { "_id" : "ObjectId('6418575fad0d66e9eea92ff1')", "name" : "ADMIN" }
+]
